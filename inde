@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Playstation</h1>
+          <img src="https://acdn-us.mitiendanube.com/stores/004/237/212/products/9294-846b1e2d6f3076694217824774298736-480-0.webp alt="logo">
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">inicio</a></li>
+            <li><a href="html">about</a></li>
+            <li><a href="otro">contacto</a></li>
+             <li><a href="inde">contacto</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Mejores videojuegos</h2>
+            <article>
+                <h3></h3>
+                <p>Los mandos modernos (gamepads) integran pequeños joysticks analógicos para controlar el movimiento de los personajes y la cámara.</p>
+            </article>
+        </section>
+    </main>
+</body>
+</html>
