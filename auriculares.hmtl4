@@ -21,11 +21,15 @@
     <main>
         <section>
             <h2>auriculares</h2>
+            <img src="https://arsonyb2c.vtexassets.com/arquivos/ids/359879-1600-auto?v=637920877976900000&width=1600&height=auto&aspect=true" alt="auriculares">
             <article>
                 <h3>Uso en videojuegos</h3>
                 <p>Chat de voz en juegos online: Te permite hablar con tus amigos o compañeros de equipo mientras juegas partidas multijugador (como en Fortnite, Call of Duty o FC). </p>
             </article>
         </section>
     </main>
+    <footer>
+        <p>Usar auriculares en la consola PlayStation transforma la experiencia de juego mediante un sonido envolvente y una comunicación clara. </p>
+    </footer>
 </body>
 </html>
