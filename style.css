@@ -68,3 +68,8 @@ footer {
     font-size: 0.9em;
     color: #555;
 }
+img{
+    width: 600px; 
+    height: auto;
+    align: center;
+}
